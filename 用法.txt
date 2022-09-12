@@ -1,4 +1,4 @@
-$ git clone https://github.com/fifilyu/the-23-gang-of-four-design-patterns-with-cplusplus.git
+$ git clone https://github.com/syh517867074/DesignPattern.git
 $ mkdir the-23-gang-of-four-design-patterns-with-cplusplus_build
 $ cd the-23-gang-of-four-design-patterns-with-cplusplus_build
 $ cmake ../the-23-gang-of-four-design-patterns-with-cplusplus
